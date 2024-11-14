@@ -26,7 +26,7 @@ Please ensure your system meets the minimum CPU requirements before installation
 - [Sign up and create a mimik developer console account](https://developer.mimik.com/console/create_account)
 
 ## Installation Guide
-1. Download the latest .tar files for the latest release [HERE](https://github.com/mimik-mimOE/mimOE-SE-Linux/releases).
+1. Download the latest .tar files for the latest release [HERE](https://github.com/mim-OE/mimOE-SE-Linux/releases).
 2. Create a new directory.
 3. Move the downloaded .tar file to the newly created directory.
 4. Open a terminal and navigate to the directory containing the downloaded `.tar` file.
